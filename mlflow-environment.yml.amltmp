@@ -1,0 +1,10 @@
+name: mlflow-environment
+dependencies:
+  - python=3.6.2
+  - pyspark
+  - numpy
+  - matplotlib
+  - pandas
+  - pip:
+    - azureml-mlflow
+    - mlflow

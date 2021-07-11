@@ -1,0 +1,16 @@
+name: mlflow-environment
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.6
+  - scikit-learn
+  - pip
+  - pandas
+  - numpy
+  - pip:
+    - pyspark
+    - mlflow
+    - azureml-mlflow
+    - azureml-defaults
