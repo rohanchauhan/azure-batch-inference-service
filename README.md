@@ -10,5 +10,3 @@ In this project, we [UCI Bank Marketing](https://archive.ics.uci.edu/ml/datasets
 | Random Forest           | 0.913        | 0.915              | 0.658             |
 | Gradient Boosting Trees | 0.919        | 0.948              | 0.663             |
 
-## Folder Structure
-
