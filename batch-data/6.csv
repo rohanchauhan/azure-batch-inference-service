@@ -1,0 +1,11 @@
+,age,job,marital,education,default,housing,loan,contact,month,day_of_week,duration,campaign,pdays,previous,poutcome,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed,y
+50,31,admin.,single,university.degree,no,no,no,telephone,may,fri,239,2,999,0,nonexistent,1.1,93.994,-36.4,4.859,5191.0,no
+51,31,admin.,single,university.degree,no,yes,no,cellular,jul,tue,72,1,999,0,nonexistent,1.4,93.918,-42.7,4.961,5228.1,no
+52,31,admin.,single,university.degree,no,yes,yes,telephone,nov,thu,90,2,999,0,nonexistent,-0.1,93.2,-42.0,4.076,5195.8,no
+53,31,blue-collar,single,basic.9y,no,no,no,telephone,jun,wed,87,2,999,0,nonexistent,1.4,94.465,-41.8,4.864,5228.1,no
+54,31,blue-collar,single,high.school,no,no,no,cellular,jul,tue,78,2,999,0,nonexistent,1.4,93.918,-42.7,4.961,5228.1,no
+55,31,management,married,university.degree,no,yes,yes,cellular,aug,mon,85,1,999,0,nonexistent,1.4,93.444,-36.1,4.963,5228.1,no
+56,31,services,single,high.school,no,no,no,cellular,jul,thu,61,4,999,0,nonexistent,1.4,93.918,-42.7,4.968,5228.1,no
+57,31,technician,single,university.degree,no,yes,no,cellular,jul,mon,227,4,999,0,nonexistent,1.4,93.918,-42.7,4.962,5228.1,no
+58,31,unemployed,single,professional.course,no,yes,no,cellular,nov,thu,70,1,999,0,nonexistent,-0.1,93.2,-42.0,4.076,5195.8,no
+59,32,admin.,married,high.school,no,no,no,cellular,aug,fri,52,8,999,0,nonexistent,1.4,93.444,-36.1,4.966,5228.1,no
